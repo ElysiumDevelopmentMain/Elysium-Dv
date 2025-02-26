@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Elysium Development'
+author 'Joey B @ Next Dev Labs'
 description 'Simple standalone dv script'
 version '1.0.0'
 
